@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=".vv!`^RhA0j50Qrq{A/r" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="b%iO!k-VLpDLW34r?f-0"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="lRgq|W]W2^]1cuyF*9Sr"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="basic_show_icon" id="0uH?9`/Rcy.X1WiDX.ge"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="z`?c^Ra8y8+@PYPAzI%s"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="basic_show_icon" id="wQ3?xFV{ShX@3AM`@,Eh"><field name="i">IconNames.Heart</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_print_message" id="ko[MN=LlJ]t4%(+U(7Dt" disabled="true" x="-226" y="444"><value name="text"><shadow type="text" id="z(|UCn`PuLZ37DM/p#hS" disabled="true"><field name="TEXT">juan antonio polanco</field></shadow></value></block></xml>
